@@ -1,0 +1,1 @@
+Actually, I have uploaded the data file for "question 5" . This data file is get for the whole data, so I use all the features. there are 563 containing the activity type and the subject. They are all factors.
